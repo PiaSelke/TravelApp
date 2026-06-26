@@ -77,13 +77,22 @@ web/        Web support
 
 ## Screenshots
 
-### Home Screen and Friends
+### Home, Trips, and Friends
 
-
+<p align="center">
+  <img src="screenshots/Home_TravelJournal.png" width="250">
+  <img src="screenshots/Trips_TravelJournal.png" width="250">
+  <img src="screenshots/Trips2_TravelJournal.png" width="250">
+  <img src="screenshots/Friends_TravelJournal.png" width="250">
+</p>
 
 ### Continent Checklists
 
-
+<p align="center">
+  <img src="screenshots/Continents_TravelJournal.png" width="250">
+  <img src="screenshots/Continents2_TravelJournal.png" width="250">
+  <img src="screenshots/Continents3_TravelJournal.png" width="250">
+</p>
 
 ### Packlist
 <p align="center">
@@ -97,7 +106,7 @@ web/        Web support
 <p align="center">
   <img src="screenshots/Bucket_TravelJournal.png" width="250">
   <img src="screenshots/Bucket2_TravelJournal.png" width="250">
-  <img src="screenshots/Bucket3_TravelJournal.png" width="250">
+  <img src="screenshots/Bucketlist3_TravelJournal.png" width="250">
   <img src="screenshots/Festivals_TravelJournal.png" width="250">
   <img src="screenshots/Record_TravelJournal.png" width="250">
 </p>
