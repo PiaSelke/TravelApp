@@ -77,7 +77,36 @@ web/        Web support
 
 ## Screenshots (coming soon)
 
+### Home & Trip Management
 
+<p align="center">
+  <img src="screenshots/Home_TravelJournal.png" width="250">
+  <img src="screenshots/Trips_TravelJournal.png" width="250">
+</p>
+
+### Packing Lists
+
+<p align="center">
+  <img src="screenshots/PacklistScreen_TravelJournal.png" width="250">
+  <img src="screenshots/Add_PacklistScreen_TravelJournal.png" width="250">
+  <img src="screenshots/Add2_PacklistScreen_TravelJournal.png" width="250">
+</p>
+
+### Travel Challenges
+
+<p align="center">
+  <img src="screenshots/ChecklistsScreen_TravelJournal.png" width="250">
+  <img src="screenshots/FestivalsScreen_TravelJournal.png" width="250">
+  <img src="screenshots/GeographicalWorldRecordsScreen_TravelJournal.png" width="250">
+</p>
+
+### Personal Goals & Friends
+
+<p align="center">
+  <img src="screenshots/BucketlistScreen_TravelJournal.png" width="250">
+  <img src="screenshots/Add_CustomBucketlistScreen_TravelJournal.png" width="250">
+  <img src="screenshots/FriendsScreen_TravelJournal.png" width="250">
+</p>
 
 ## My Role
 
