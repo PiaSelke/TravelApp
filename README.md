@@ -1,6 +1,8 @@
 # Travel Journal
 
-(Screenshot)
+<p align="center">
+  <img src="screenshots/HomeScreen_TravelJournal 2026-06-25.png" width="350">
+</p>
 
 A cross-platform mobile application built with Flutter that helps travelers plan future trips, organize travel experiences, and preserve memories from previous journeys.
 
