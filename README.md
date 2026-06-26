@@ -75,37 +75,31 @@ ios/        iOS platform files
 web/        Web support
 ```
 
-## Screenshots (coming soon)
+## Screenshots
 
-### Home & Trip Management
+### Home Screen and Friends
 
+
+
+### Continent Checklists
+
+
+
+### Packlist
 <p align="center">
-  <img src="screenshots/Home_TravelJournal.png" width="250">
-  <img src="screenshots/Trips_TravelJournal.png" width="250">
+  <img src="screenshots/Packlist_TravelJournal.png" width="250">
+  <img src="screenshots/Packlist2_TravelJournal.png" width="250">
+  <img src="screenshots/Packlist3_TravelJournal.png" width="250">
+  <img src="screenshots/Packlist4_TravelJournal.png" width="250">
 </p>
 
-### Packing Lists
-
+### Bucketlists
 <p align="center">
-  <img src="screenshots/PacklistScreen_TravelJournal.png" width="250">
-  <img src="screenshots/Add_PacklistScreen_TravelJournal.png" width="250">
-  <img src="screenshots/Add2_PacklistScreen_TravelJournal.png" width="250">
-</p>
-
-### Travel Challenges
-
-<p align="center">
-  <img src="screenshots/ChecklistsScreen_TravelJournal.png" width="250">
-  <img src="screenshots/FestivalsScreen_TravelJournal.png" width="250">
-  <img src="screenshots/GeographicalWorldRecordsScreen_TravelJournal.png" width="250">
-</p>
-
-### Personal Goals & Friends
-
-<p align="center">
-  <img src="screenshots/BucketlistScreen_TravelJournal.png" width="250">
-  <img src="screenshots/Add_CustomBucketlistScreen_TravelJournal.png" width="250">
-  <img src="screenshots/FriendsScreen_TravelJournal.png" width="250">
+  <img src="screenshots/Bucket_TravelJournal.png" width="250">
+  <img src="screenshots/Bucket2_TravelJournal.png" width="250">
+  <img src="screenshots/Bucket3_TravelJournal.png" width="250">
+  <img src="screenshots/Festivals_TravelJournal.png" width="250">
+  <img src="screenshots/Record_TravelJournal.png" width="250">
 </p>
 
 ## My Role
