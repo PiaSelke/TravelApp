@@ -141,7 +141,7 @@ Responsibilities included:
 - Expense tracking
 - Offline synchronization
 - Cloud backup
-- - Travel timeline
+- Travel timeline
 - Interactive travel map
 - Travel statistics dashboard
 - Multi-language support
